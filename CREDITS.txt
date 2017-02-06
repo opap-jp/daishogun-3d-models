@@ -8,4 +8,5 @@ License:
     Url: https://creativecommons.org/licenses/by/2.1/jp/
 
 Authors:
+  - Name: 桐貴寛仁
   - Name: 井二かける

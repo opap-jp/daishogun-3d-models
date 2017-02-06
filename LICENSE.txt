@@ -1,0 +1,8 @@
+Coypright:
+  - Coypright (C)2016 OPAP-JP contributors.
+
+Licenses:
+  - Name: Creative Commons Attribution 4.0
+    Url: https://creativecommons.org/licenses/by/4.0/
+  - Name: Creative Commons Attribution 2.1 Japan
+    Url: https://creativecommons.org/licenses/by/2.1/jp/

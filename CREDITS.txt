@@ -1,6 +1,12 @@
 Coypright:
-  - Coypright (C)2016 OPAP-JP contributors.
+  - Coypright (C)2016-2018 OPAP-JP contributors.
 
 Authors:
   - Name: 桐貴寛仁
+    Files:
+      - apartment-communal-area.blend
+      - maps/*
+  - Name: Sota＠./make
+    Files:
+      - exterior.blend
   - Name: 井二かける
